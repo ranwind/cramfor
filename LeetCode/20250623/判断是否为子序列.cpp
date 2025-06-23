@@ -1,5 +1,6 @@
 // 判断是否为子序列
 #include<iostream>
+#include<string>
 
 using namespace std;
 
